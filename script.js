@@ -1,6 +1,6 @@
 // Wait for the DOM to load
 document.addEventListener('DOMContentLoaded', () => {
-    const apiKey = 'YOUR_API_KEY'; // Replace with your OpenWeather API key
+    const apiKey = 'ba94b1ec9cc6b17e39c892afa24970c3'; // Replace with your OpenWeather API key
   
     const form = document.getElementById('city-form');
     const cityInput = document.getElementById('city-input');
